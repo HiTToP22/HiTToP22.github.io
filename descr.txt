@@ -1,0 +1,1 @@
+this is my first project, I know that not everything is perfect here, that positioning is used a little illiterately at some moments of layout, adaptation, etc., but by the future time this will all be fixed (this project looks best at 1250px and at 320 px)
